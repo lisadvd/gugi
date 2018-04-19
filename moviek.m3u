@@ -16,3 +16,5 @@ http://185.21.216.192:7071/super/NickJr2/chunks.m3u8?nimblesessionid=11217146&wm
 http://play1.uktvnow.net:8081/live/uk-nickjrtoo.stream/chunks.m3u8?nimblesessionid=298186471&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDQ6MDE6MDMgUE0maGFzaF92YWx1ZT0rMHZWTitlNWN2NzZYb20wUnhDSG53PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:0,E4
 http://185.21.216.192:7071/super/4E/chunks.m3u8?nimblesessionid=11219091&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDM6Mzc6MzQgUE0maGFzaF92YWx1ZT1hbzRJZlp2TjQ3VVRnWXpQZjlTVERRPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:0,Comedy Central
+http://185.21.216.192:7071/super/ComedyCentral/chunks.m3u8?nimblesessionid=11237035&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDQ6MzA6MDEgUE0maGFzaF92YWx1ZT1ZZzVScXIwK280WStlbXB3VmNkUUdBPT0mdmFsaWRtaW51dGVzPTI=
