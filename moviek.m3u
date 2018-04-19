@@ -9,7 +9,7 @@ http://185.21.216.192:7071/super/ITV1/chunks.m3u8?nimblesessionid=11323571&wmsAu
 #EXTINF:0,ITV 2
 http://185.21.216.192:7071/super/ITV2/chunks.m3u8?nimblesessionid=11323943&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDg6MDk6MjIgUE0maGFzaF92YWx1ZT1VckZqcTV1eUtYT054Wk11Ni9wTDNnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0, Nick Jr
-http://185.21.216.159:7071/super/nickjr/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDg6MTA6MTYgUE0maGFzaF92YWx1ZT1XY1BqUUVPejAyWGd0dXlnTkdkY0VRPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.216.159:7071/super/nickjr/chunks.m3u8?nimblesessionid=13791973&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDg6MjI6NTAgUE0maGFzaF92YWx1ZT16YlFWY3NGMjJVeWRGbXY0RGpTR0VBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0,Nick Jr 2
 http://185.21.216.192:7071/super/NickJr2/chunks.m3u8?nimblesessionid=11217146&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDM6MzE6NTkgUE0maGFzaF92YWx1ZT0vZGp4MkxQSVFnMWMydDlRazR3V0VnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0,Nick Jr 2 Back Up
@@ -17,4 +17,4 @@ http://play1.uktvnow.net:8081/live/uk-nickjrtoo.stream/chunks.m3u8?nimblesession
 #EXTINF:0,E4
 http://185.21.216.192:7071/super/4E/chunks.m3u8?nimblesessionid=11324770&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDg6MTE6MTAgUE0maGFzaF92YWx1ZT0wMVUxRW1ubWMwVEp6Z0JpZGtrYTBRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0,Comedy Central
-http://185.21.216.192:7071/super/ComedyCentral/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDg6MTE6MjkgUE0maGFzaF92YWx1ZT05TXdMeGI1dk4zT3N0VkZ2WjBLSzRRPT0mdmFsaWRtaW51dGVzPTI=
+http://185.21.216.192:7071/super/ComedyCentral/chunks.m3u8?nimblesessionid=11329170&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDg6MjE6MjggUE0maGFzaF92YWx1ZT01UXMwcXlTS0xDKzBiajZrdnhSMUVBPT0mdmFsaWRtaW51dGVzPTI=
