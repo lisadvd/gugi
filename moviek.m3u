@@ -3,7 +3,8 @@
 #EXTINF:-1, [COLOR green] --29-06-2015--[/COLOR]  
 #EXTINF:-1,[COLOR yellow]--- US Channels ---[/COLOR]
 
-
+#EXTINF:0,Channel 5
+http://185.21.216.192:7071/super/CH5/chunks.m3u8?nimblesessionid=11349457&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDk6MTA6MzAgUE0maGFzaF92YWx1ZT1rdXlMSXYyQ1FIMHlUNnhWOWZRMFJBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0,Channel 4
 http://play1.uktvnow.net:8081/live/channel4.stream/chunks.m3u8?nimblesessionid=307342271&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDk6MDQ6MDMgUE0maGFzaF92YWx1ZT1nREkrNDFGazEwcTZ3R1JORllrVi93PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:0,ITV
