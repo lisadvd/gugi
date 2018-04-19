@@ -3,20 +3,18 @@
 #EXTINF:-1, [COLOR green] --29-06-2015--[/COLOR]  
 #EXTINF:-1,[COLOR yellow]--- US Channels ---[/COLOR]
 
-#EXTINF:0,Channel 5
-http://185.21.216.192:7071/super/CH5/chunks.m3u8?nimblesessionid=11349457&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDk6MTA6MzAgUE0maGFzaF92YWx1ZT1rdXlMSXYyQ1FIMHlUNnhWOWZRMFJBPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:0,Channel 4
-http://play1.uktvnow.net:8081/live/channel4.stream/chunks.m3u8?nimblesessionid=307342271&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDk6MDQ6MDMgUE0maGFzaF92YWx1ZT1nREkrNDFGazEwcTZ3R1JORllrVi93PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:0,ITV
 http://185.21.216.192:7071/super/ITV1/chunks.m3u8?nimblesessionid=11323571&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDg6MDg6MjkgUE0maGFzaF92YWx1ZT1hQ0E2cVFPWGIzTWxEREs3SXJIU2h3PT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:0,Channel4
+http://play1.uktvnow.net:8081/live/channel4.stream/chunks.m3u8?nimblesessionid=307342271&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDk6MDQ6MDMgUE0maGFzaF92YWx1ZT1nREkrNDFGazEwcTZ3R1JORllrVi93PT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:0,Channel5
+http://185.21.216.192:7071/super/CH5/chunks.m3u8?nimblesessionid=11349457&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDk6MTA6MzAgUE0maGFzaF92YWx1ZT1rdXlMSXYyQ1FIMHlUNnhWOWZRMFJBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0,ITV 2
 http://185.21.216.192:7071/super/ITV2/chunks.m3u8?nimblesessionid=11323943&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDg6MDk6MjIgUE0maGFzaF92YWx1ZT1VckZqcTV1eUtYT054Wk11Ni9wTDNnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0, Nick Jr
 http://185.21.216.159:7071/super/nickjr/chunks.m3u8?nimblesessionid=13791973&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDg6MjI6NTAgUE0maGFzaF92YWx1ZT16YlFWY3NGMjJVeWRGbXY0RGpTR0VBPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0,Nick Jr 2
 http://185.21.216.192:7071/super/NickJr2/chunks.m3u8?nimblesessionid=11217146&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDM6MzE6NTkgUE0maGFzaF92YWx1ZT0vZGp4MkxQSVFnMWMydDlRazR3V0VnPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:0,Nick Jr 2 Back Up
-http://play1.uktvnow.net:8081/live/uk-nickjrtoo.stream/chunks.m3u8?nimblesessionid=298186471&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDQ6MDE6MDMgUE0maGFzaF92YWx1ZT0rMHZWTitlNWN2NzZYb20wUnhDSG53PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:0,E4
 http://185.21.216.192:7071/super/4E/chunks.m3u8?nimblesessionid=11324770&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDg6MTE6MTAgUE0maGFzaF92YWx1ZT0wMVUxRW1ubWMwVEp6Z0JpZGtrYTBRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0,Comedy Central
