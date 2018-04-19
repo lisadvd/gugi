@@ -4,6 +4,8 @@
 #EXTINF:-1,[COLOR yellow]--- US Channels ---[/COLOR]
 
 
+#EXTINF:0,Channel 4
+http://play1.uktvnow.net:8081/live/channel4.stream/chunks.m3u8?nimblesessionid=307342271&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDk6MDQ6MDMgUE0maGFzaF92YWx1ZT1nREkrNDFGazEwcTZ3R1JORllrVi93PT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:0,ITV
 http://185.21.216.192:7071/super/ITV1/chunks.m3u8?nimblesessionid=11323571&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDg6MDg6MjkgUE0maGFzaF92YWx1ZT1hQ0E2cVFPWGIzTWxEREs3SXJIU2h3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0,ITV 2
