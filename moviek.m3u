@@ -10,3 +10,5 @@ http://185.21.216.192:7071/super/ITV1/chunks.m3u8?nimblesessionid=11190258&wmsAu
 http://185.21.216.192:7071/super/ITV2/chunks.m3u8?nimblesessionid=11194687&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDI6MjQ6MzYgUE0maGFzaF92YWx1ZT05UCtoSWZxYkJiTU42OEVPL3pRZERnPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0, Nick Jr
 http://185.21.216.159:7071/super/nickjr/chunks.m3u8?nimblesessionid=13553737&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDI6MzE6MzcgUE0maGFzaF92YWx1ZT1GQlVvYllMSkNvdUIxSG5abm5DaW1BPT0mdmFsaWRtaW51dGVzPTI=
+#EXTINF:0,Nick Jr 2
+http://185.21.216.192:7071/super/NickJr2/chunks.m3u8?nimblesessionid=11217146&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDM6MzE6NTkgUE0maGFzaF92YWx1ZT0vZGp4MkxQSVFnMWMydDlRazR3V0VnPT0mdmFsaWRtaW51dGVzPTI=
