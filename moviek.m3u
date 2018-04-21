@@ -4,9 +4,9 @@
 #EXTINF:-1,[COLOR yellow]--- US Channels ---[/COLOR]
 
 #EXTINF:0,BBC 1
-http://185.21.216.192:7071/super/BBC1/chunks.m3u8?nimblesessionid=11352689&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDk6MTk6MTMgUE0maGFzaF92YWx1ZT1oUGx2d0w2R0Q4OGxxOG1RcXNHWDd3PT0mdmFsaWRtaW51dGVzPTI=
+http://vs-hls-uk-live.akamaized.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070016.m3u8
 #EXTINF:0,BBC 2
-http://play1.uktvnow.net:8081/live/bbc2.stream/chunks.m3u8?nimblesessionid=307927869&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDk6MjQ6MjcgUE0maGFzaF92YWx1ZT1DT1FkZlNpRjhDbW01b0lxV0FieXpRPT0mdmFsaWRtaW51dGVzPTIw
+http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d5070016.m3u8
 #EXTINF:0,ITV
 http://185.21.216.192:7071/super/ITV1/chunks.m3u8?nimblesessionid=11323571&wmsAuthSign=c2VydmVyX3RpbWU9NC8xOS8yMDE4IDg6MDg6MjkgUE0maGFzaF92YWx1ZT1hQ0E2cVFPWGIzTWxEREs3SXJIU2h3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0,Channel4
