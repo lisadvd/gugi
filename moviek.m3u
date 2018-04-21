@@ -18,4 +18,4 @@ http://185.21.216.139:7071/super/ITV2/chunks.m3u8?nimblesessionid=197741&wmsAuth
 #EXTINF:0,E4
 http://185.21.216.139:7071/super/4E/chunks.m3u8?nimblesessionid=197868&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDE4IDEwOjI2OjE4IFBNJmhhc2hfdmFsdWU9b0IvdDBXeCtYUXRXY3ZvSzFsdHBhQT09JnZhbGlkbWludXRlcz0y
 #EXTINF:0,Comedy Central
-http://185.21.216.139:7071/super/ComedyCentral/chunks.m3u8?nimblesessionid=198069&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDE4IDEwOjI2OjQ5IFBNJmhhc2hfdmFsdWU9K2ZCMk1MY0NFdkN5eFNIV1Z0cFlxdz09JnZhbGlkbWludXRlcz0y
+http://play1.uktvnow.net:8081/live/cc.stream/chunks.m3u8?nimblesessionid=388881194&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDE4IDEwOjI5OjMyIFBNJmhhc2hfdmFsdWU9MzlmZ2NmZkxvUk1sSHZuVGhlUlUwZz09JnZhbGlkbWludXRlcz0yMA==
