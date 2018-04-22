@@ -23,3 +23,759 @@ http://play1.uktvnow.net:8081/live/cc.stream/chunks.m3u8?nimblesessionid=3888811
 http://painel.iptvmove.com:25461/live/marcos92/fabyani47/9999.m3u8
 #EXTINF:-1,Title Here
 http://painel.iptvmove.com:25461/live/marcos92/fabyani47/.m3u8
+#EXTINF:-1,NHK News HD
+http://178.33.237.97:8080/live/andro/andro/71.ts
+#EXTINF:-1,Fox News
+http://178.33.237.97:8080/live/andro/andro/72.ts
+#EXTINF:-1,Euronews
+http://178.33.237.97:8080/live/andro/andro/73.ts
+#EXTINF:-1,UK: CNN
+http://178.33.237.97:8080/live/andro/andro/12.ts
+#EXTINF:-1,Sky News UK
+http://178.33.237.97:8080/live/andro/andro/66.ts
+#EXTINF:-1,Sky News HD
+http://178.33.237.97:8080/live/andro/andro/67.ts
+#EXTINF:-1,Sky News Arabia
+http://178.33.237.97:8080/live/andro/andro/68.ts
+#EXTINF:-1,Russia Today
+http://178.33.237.97:8080/live/andro/andro/69.ts
+#EXTINF:-1,CNN
+http://178.33.237.97:8080/live/andro/andro/74.ts
+#EXTINF:-1,CNBC Europe
+http://178.33.237.97:8080/live/andro/andro/75.ts
+#EXTINF:-1,Bloomberg
+http://178.33.237.97:8080/live/andro/andro/76.ts
+#EXTINF:-1,BBC World News
+http://178.33.237.97:8080/live/andro/andro/77.ts
+#EXTINF:-1,BBC News UK
+http://178.33.237.97:8080/live/andro/andro/78.ts
+#EXTINF:-1,Al Jazeera News English
+http://178.33.237.97:8080/live/andro/andro/79.ts
+#EXTINF:-1,ABC News
+http://178.33.237.97:8080/live/andro/andro/80.ts
+#EXTINF:-1,Russia Today HD
+http://178.33.237.97:8080/live/andro/andro/1940.ts
+#EXTINF:-1,SKY SPORTS Main Event HD
+http://178.33.237.97:8080/live/andro/andro/47.ts
+#EXTINF:-1,SKY SPORTS Premier Leauge HD
+http://178.33.237.97:8080/live/andro/andro/55.ts
+#EXTINF:-1,SKY SPORTS Football HD
+http://178.33.237.97:8080/live/andro/andro/1801.ts
+#EXTINF:-1,SKY SPORTS Cricket HD
+http://178.33.237.97:8080/live/andro/andro/49.ts
+#EXTINF:-1,SKY SPORTS The Open HD
+http://178.33.237.97:8080/live/andro/andro/53.ts
+#EXTINF:-1,Sky Sports F1 HD
+http://178.33.237.97:8080/live/andro/andro/57.ts
+#EXTINF:-1,SKY SPORTS Action HD
+http://178.33.237.97:8080/live/andro/andro/51.ts
+#EXTINF:-1,SKY SPORTS Arena HD
+http://178.33.237.97:8080/live/andro/andro/1629.ts
+#EXTINF:-1,Sky Sports News HQ HD
+http://178.33.237.97:8080/live/andro/andro/264.ts
+#EXTINF:-1,Sky Sports Mix HD
+http://178.33.237.97:8080/live/andro/andro/247.ts
+#EXTINF:-1,Sky Sports Main Event SD
+http://178.33.237.97:8080/live/andro/andro/48.ts
+#EXTINF:-1,Sky Sports Premier Leauge SD
+http://178.33.237.97:8080/live/andro/andro/56.ts
+#EXTINF:-1,SKY SPORTS Football HD (2)
+http://178.33.237.97:8080/live/andro/andro/1873.ts
+#EXTINF:-1,Sky Sports Cricket SD
+http://178.33.237.97:8080/live/andro/andro/50.ts
+#EXTINF:-1,Sky Sports The Open SD
+http://178.33.237.97:8080/live/andro/andro/54.ts
+#EXTINF:-1,Sky Sports F1 SD
+http://178.33.237.97:8080/live/andro/andro/64.ts
+#EXTINF:-1,Sky Sports Action SD
+http://178.33.237.97:8080/live/andro/andro/52.ts
+#EXTINF:-1,Sky Sports Arena HD (LOCAL)
+http://178.33.237.97:8080/live/andro/andro/1872.ts
+#EXTINF:-1,Sky Sports News HQ
+http://178.33.237.97:8080/live/andro/andro/1614.ts
+#EXTINF:-1,Sky Sports Mix SD
+http://178.33.237.97:8080/live/andro/andro/222.ts
+#EXTINF:-1,UK: British Eurosport 1 HD
+http://178.33.237.97:8080/live/andro/andro/59.ts
+#EXTINF:-1,UK: British EuroSports 2
+http://178.33.237.97:8080/live/andro/andro/58.ts
+#EXTINF:-1,BT Sport 1HD
+http://178.33.237.97:8080/live/andro/andro/44.ts
+#EXTINF:-1,Bt Sport 2 HD
+http://178.33.237.97:8080/live/andro/andro/45.ts
+#EXTINF:-1,BT Sport 3 HD
+http://178.33.237.97:8080/live/andro/andro/46.ts
+#EXTINF:-1,UK: BT SPORT 1 SD
+http://178.33.237.97:8080/live/andro/andro/511.ts
+#EXTINF:-1,UK: BT SPORT 2 SD
+http://178.33.237.97:8080/live/andro/andro/512.ts
+#EXTINF:-1,UK: BT SPORT ESPN SD
+http://178.33.237.97:8080/live/andro/andro/510.ts
+#EXTINF:-1,At The Races
+http://178.33.237.97:8080/live/andro/andro/41.ts
+#EXTINF:-1,Racing Uk
+http://178.33.237.97:8080/live/andro/andro/42.ts
+#EXTINF:-1,UK: BOX NATION HD
+http://178.33.237.97:8080/live/andro/andro/1544.ts
+#EXTINF:-1,UK : Premier Sports HD
+http://178.33.237.97:8080/live/andro/andro/61.ts
+#EXTINF:-1,Setanta Ireland HD
+http://178.33.237.97:8080/live/andro/andro/63.ts
+#EXTINF:-1,VIP: Setanta HD
+http://178.33.237.97:8080/live/andro/andro/60.ts
+#EXTINF:-1,UK: EIR SPORT 1
+http://178.33.237.97:8080/live/andro/andro/1537.ts
+#EXTINF:-1,UK: EIR SPORT 2
+http://178.33.237.97:8080/live/andro/andro/1538.ts
+#EXTINF:-1,OSN Sports 1 HD
+http://178.33.237.97:8080/live/andro/andro/1521.ts
+#EXTINF:-1,OSN Sports 2 HD
+http://178.33.237.97:8080/live/andro/andro/1522.ts
+#EXTINF:-1,OSN Sports 3 HD
+http://178.33.237.97:8080/live/andro/andro/1523.ts
+#EXTINF:-1,OSN Sports 4 HD
+http://178.33.237.97:8080/live/andro/andro/1524.ts
+#EXTINF:-1,TSN 1 HD
+http://178.33.237.97:8080/live/andro/andro/223.ts
+#EXTINF:-1,TSN 2 HD
+http://178.33.237.97:8080/live/andro/andro/224.ts
+#EXTINF:-1,TSN 3 HD
+http://178.33.237.97:8080/live/andro/andro/225.ts
+#EXTINF:-1,TSN 4 HD
+http://178.33.237.97:8080/live/andro/andro/226.ts
+#EXTINF:-1,TSN 5 HD
+http://178.33.237.97:8080/live/andro/andro/227.ts
+#EXTINF:-1,VIP: SKYNET SPORTS HD MYM
+http://178.33.237.97:8080/live/andro/andro/1526.ts
+#EXTINF:-1,VIP: SKYNET SPORTS 1 MYM
+http://178.33.237.97:8080/live/andro/andro/1527.ts
+#EXTINF:-1,VIP: SKYNET SPORTS 2 MYM
+http://178.33.237.97:8080/live/andro/andro/1528.ts
+#EXTINF:-1,VIP: SKYNET SPORTS 3 MYM
+http://178.33.237.97:8080/live/andro/andro/1529.ts
+#EXTINF:-1,VIP: SKYNET SPORTS 4 MYM
+http://178.33.237.97:8080/live/andro/andro/1530.ts
+#EXTINF:-1,VIP: SKYNET SPORTS 5 MYM
+http://178.33.237.97:8080/live/andro/andro/1531.ts
+#EXTINF:-1,VIP: SKYNET SPORTS 6 MYM
+http://178.33.237.97:8080/live/andro/andro/1532.ts
+#EXTINF:-1,VIP: Astro Sport 1 HD
+http://178.33.237.97:8080/live/andro/andro/1533.ts
+#EXTINF:-1,VIP: Astro Sport 2 HD
+http://178.33.237.97:8080/live/andro/andro/1534.ts
+#EXTINF:-1,VIP: Astro Sport 3 HD
+http://178.33.237.97:8080/live/andro/andro/1535.ts
+#EXTINF:-1,VIP: Astro Sport 4 HD
+http://178.33.237.97:8080/live/andro/andro/1536.ts
+#EXTINF:-1,VIP :MIO  ELEVEN PLUS 103 HD
+http://178.33.237.97:8080/live/andro/andro/1520.ts
+#EXTINF:-1,VIP :MIO  ELEVEN HD
+http://178.33.237.97:8080/live/andro/andro/1519.ts
+#EXTINF:-1,VIP : MIO ELEVEN SPORTS HD
+http://178.33.237.97:8080/live/andro/andro/1518.ts
+#EXTINF:-1,VIP : MTV LIVE HD
+http://178.33.237.97:8080/live/andro/andro/98.ts
+#EXTINF:-1,MUTV
+http://178.33.237.97:8080/live/andro/andro/43.ts
+#EXTINF:-1,LIVERPOOL FC TV
+http://178.33.237.97:8080/live/andro/andro/65.ts
+#EXTINF:-1,UK: CHELSEA TV HD
+http://178.33.237.97:8080/live/andro/andro/1543.ts
+#EXTINF:-1,UK: CELTIC FC TV (Live for Matches)
+http://178.33.237.97:8080/live/andro/andro/1540.ts
+#EXTINF:-1,BT SPORT EXTRA 6
+http://178.33.237.97:8080/live/andro/andro/240.ts
+#EXTINF:-1,BT SPORT EXTRA 5
+http://178.33.237.97:8080/live/andro/andro/239.ts
+#EXTINF:-1,BT SPORT EXTRA 4
+http://178.33.237.97:8080/live/andro/andro/238.ts
+#EXTINF:-1,BT SPORT EXTRA 3
+http://178.33.237.97:8080/live/andro/andro/237.ts
+#EXTINF:-1,BT SPORT EXTRA 2
+http://178.33.237.97:8080/live/andro/andro/236.ts
+#EXTINF:-1,BT SPORT EXTRA 1
+http://178.33.237.97:8080/live/andro/andro/235.ts
+#EXTINF:-1,UK: RANGERS FC TV (Local)
+http://178.33.237.97:8080/live/andro/andro/1539.ts
+#EXTINF:-1,BT Sport 3 SD
+http://178.33.237.97:8080/live/andro/andro/2336.ts
+#EXTINF:-1,BT Sport ESPN HD
+http://178.33.237.97:8080/live/andro/andro/251.ts
+#EXTINF:-1,3e
+http://178.33.237.97:8080/live/andro/andro/110.ts
+#EXTINF:-1,Animal Planet
+http://178.33.237.97:8080/live/andro/andro/509.ts
+#EXTINF:-1,BBC Alba
+http://178.33.237.97:8080/live/andro/andro/1561.ts
+#EXTINF:-1,Boomerang
+http://178.33.237.97:8080/live/andro/andro/87.ts
+#EXTINF:-1,CBeebies
+http://178.33.237.97:8080/live/andro/andro/88.ts
+#EXTINF:-1,CBS Action
+http://178.33.237.97:8080/live/andro/andro/104.ts
+#EXTINF:-1,CBBC
+http://178.33.237.97:8080/live/andro/andro/89.ts
+#EXTINF:-1,UK: Disney Junior
+http://178.33.237.97:8080/live/andro/andro/84.ts
+#EXTINF:-1,Cartoonito
+http://178.33.237.97:8080/live/andro/andro/90.ts
+#EXTINF:-1,Disney Channel
+http://178.33.237.97:8080/live/andro/andro/85.ts
+#EXTINF:-1,Discovery History
+http://178.33.237.97:8080/live/andro/andro/18.ts
+#EXTINF:-1,Disney XD
+http://178.33.237.97:8080/live/andro/andro/86.ts
+#EXTINF:-1,Cartoon Network UK
+http://178.33.237.97:8080/live/andro/andro/91.ts
+#EXTINF:-1,Baby TV
+http://178.33.237.97:8080/live/andro/andro/92.ts
+#EXTINF:-1,Fine Living Network
+http://178.33.237.97:8080/live/andro/andro/103.ts
+#EXTINF:-1,FOX UK
+http://178.33.237.97:8080/live/andro/andro/26.ts
+#EXTINF:-1,Fox HD UK
+http://178.33.237.97:8080/live/andro/andro/262.ts
+#EXTINF:-1,DMAX
+http://178.33.237.97:8080/live/andro/andro/101.ts
+#EXTINF:-1,GOLD
+http://178.33.237.97:8080/live/andro/andro/19.ts
+#EXTINF:-1,MTV Classics
+http://178.33.237.97:8080/live/andro/andro/93.ts
+#EXTINF:-1,MTV Base HD
+http://178.33.237.97:8080/live/andro/andro/100.ts
+#EXTINF:-1,Sky Arts HD
+http://178.33.237.97:8080/live/andro/andro/40.ts
+#EXTINF:-1,MTV Hits
+http://178.33.237.97:8080/live/andro/andro/94.ts
+#EXTINF:-1,MTV Rocks HD
+http://178.33.237.97:8080/live/andro/andro/99.ts
+#EXTINF:-1,More 4
+http://178.33.237.97:8080/live/andro/andro/102.ts
+#EXTINF:-1,Nat Geo HD
+http://178.33.237.97:8080/live/andro/andro/23.ts
+#EXTINF:-1,Pick
+http://178.33.237.97:8080/live/andro/andro/113.ts
+#EXTINF:-1,NickToons
+http://178.33.237.97:8080/live/andro/andro/81.ts
+#EXTINF:-1,Nick Junior
+http://178.33.237.97:8080/live/andro/andro/83.ts
+#EXTINF:-1,Nick UK
+http://178.33.237.97:8080/live/andro/andro/82.ts
+#EXTINF:-1,STV
+http://178.33.237.97:8080/live/andro/andro/1601.ts
+#EXTINF:-1,Sky Living
+http://178.33.237.97:8080/live/andro/andro/21.ts
+#EXTINF:-1,Sky Atlantic
+http://178.33.237.97:8080/live/andro/andro/39.ts
+#EXTINF:-1,MTV HD
+http://178.33.237.97:8080/live/andro/andro/95.ts
+#EXTINF:-1,Setanta Sports 1 / Premier Sports HD
+http://178.33.237.97:8080/live/andro/andro/62.ts
+#EXTINF:-1,Sky One
+http://178.33.237.97:8080/live/andro/andro/37.ts
+#EXTINF:-1,Sky One HD
+http://178.33.237.97:8080/live/andro/andro/263.ts
+#EXTINF:-1,Spike UK
+http://178.33.237.97:8080/live/andro/andro/112.ts
+#EXTINF:-1,MTV Dance
+http://178.33.237.97:8080/live/andro/andro/97.ts
+#EXTINF:-1,UK: Comedy Central Extra
+http://178.33.237.97:8080/live/andro/andro/31.ts
+#EXTINF:-1,UK: CBS Reality
+http://178.33.237.97:8080/live/andro/andro/13.ts
+#EXTINF:-1,UK: CBS Drama
+http://178.33.237.97:8080/live/andro/andro/14.ts
+#EXTINF:-1,True Entertainment
+http://178.33.237.97:8080/live/andro/andro/34.ts
+#EXTINF:-1,Travel Channel
+http://178.33.237.97:8080/live/andro/andro/35.ts
+#EXTINF:-1,UK : RTE ONE
+http://178.33.237.97:8080/live/andro/andro/107.ts
+#EXTINF:-1,UK: 5 Star
+http://178.33.237.97:8080/live/andro/andro/17.ts
+#EXTINF:-1,UK | Sky 1 HD Local
+http://178.33.237.97:8080/live/andro/andro/252.ts
+#EXTINF:-1,UK : RTE TWO
+http://178.33.237.97:8080/live/andro/andro/106.ts
+#EXTINF:-1,UK: AMC
+http://178.33.237.97:8080/live/andro/andro/15.ts
+#EXTINF:-1,UK : RTE JUNIOR
+http://178.33.237.97:8080/live/andro/andro/105.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://178.33.237.97:8080/live/andro/andro/1552.ts
+#EXTINF:-1,UK: BBC Parliament
+http://178.33.237.97:8080/live/andro/andro/1560.ts
+#EXTINF:-1,UK: BBC 4 HD
+http://178.33.237.97:8080/live/andro/andro/1555.ts
+#EXTINF:-1,UK: Crime and Investigation
+http://178.33.237.97:8080/live/andro/andro/30.ts
+#EXTINF:-1,UK: BBC 1 HD
+http://178.33.237.97:8080/live/andro/andro/1545.ts
+#EXTINF:-1,UK: BBC 2 HD
+http://178.33.237.97:8080/live/andro/andro/1547.ts
+#EXTINF:-1,UK: BBC 3 HD
+http://178.33.237.97:8080/live/andro/andro/1554.ts
+#EXTINF:-1,UK: BBC 2
+http://178.33.237.97:8080/live/andro/andro/1546.ts
+#EXTINF:-1,UK: Alibi
+http://178.33.237.97:8080/live/andro/andro/16.ts
+#EXTINF:-1,UK: Discovery Science
+http://178.33.237.97:8080/live/andro/andro/27.ts
+#EXTINF:-1,UK: Discovery Channel
+http://178.33.237.97:8080/live/andro/andro/29.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://178.33.237.97:8080/live/andro/andro/28.ts
+#EXTINF:-1,UK: Dave HD
+http://178.33.237.97:8080/live/andro/andro/11.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://178.33.237.97:8080/live/andro/andro/24.ts
+#EXTINF:-1,UK: Discovery Shed
+http://178.33.237.97:8080/live/andro/andro/25.ts
+#EXTINF:-1,UK: Eden
+http://178.33.237.97:8080/live/andro/andro/20.ts
+#EXTINF:-1,UK: E!
+http://178.33.237.97:8080/live/andro/andro/9.ts
+#EXTINF:-1,UK: E4
+http://178.33.237.97:8080/live/andro/andro/8.ts
+#EXTINF:-1,UK: Drama
+http://178.33.237.97:8080/live/andro/andro/10.ts
+#EXTINF:-1,UK: Food Network
+http://178.33.237.97:8080/live/andro/andro/7.ts
+#EXTINF:-1,UK: H2
+http://178.33.237.97:8080/live/andro/andro/6.ts
+#EXTINF:-1,UK: ITV 4
+http://178.33.237.97:8080/live/andro/andro/1551.ts
+#EXTINF:-1,UK: History HD
+http://178.33.237.97:8080/live/andro/andro/5.ts
+#EXTINF:-1,UK: ITV 1 HD
+http://178.33.237.97:8080/live/andro/andro/1548.ts
+#EXTINF:-1,UK: ITV 2
+http://178.33.237.97:8080/live/andro/andro/1549.ts
+#EXTINF:-1,UK: Really
+http://178.33.237.97:8080/live/andro/andro/2.ts
+#EXTINF:-1,UK: Sky Living
+http://178.33.237.97:8080/live/andro/andro/1.ts
+#EXTINF:-1,UK: Quest
+http://178.33.237.97:8080/live/andro/andro/3.ts
+#EXTINF:-1,UK: Syfy
+http://178.33.237.97:8080/live/andro/andro/36.ts
+#EXTINF:-1,VH1
+http://178.33.237.97:8080/live/andro/andro/96.ts
+#EXTINF:-1,UK: ITV 3
+http://178.33.237.97:8080/live/andro/andro/1550.ts
+#EXTINF:-1,UK: Home
+http://178.33.237.97:8080/live/andro/andro/4.ts
+#EXTINF:-1,UK: ITV Be
+http://178.33.237.97:8080/live/andro/andro/1557.ts
+#EXTINF:-1,UK: ITV Encore
+http://178.33.237.97:8080/live/andro/andro/1558.ts
+#EXTINF:-1,UK: ITV Encore HD
+http://178.33.237.97:8080/live/andro/andro/1553.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://178.33.237.97:8080/live/andro/andro/22.ts
+#EXTINF:-1,UK: Five USA
+http://178.33.237.97:8080/live/andro/andro/1556.ts
+#EXTINF:-1,Yesterday
+http://178.33.237.97:8080/live/andro/andro/32.ts
+#EXTINF:-1,UK: CHANNEL 5 HD
+http://178.33.237.97:8080/live/andro/andro/1559.ts
+#EXTINF:-1,Watch
+http://178.33.237.97:8080/live/andro/andro/33.ts
+#EXTINF:-1,UK : RTE NEWS
+http://178.33.237.97:8080/live/andro/andro/108.ts
+#EXTINF:-1,TG4
+http://178.33.237.97:8080/live/andro/andro/111.ts
+#EXTINF:-1,Sky Two
+http://178.33.237.97:8080/live/andro/andro/38.ts
+#EXTINF:-1,Comedy Central
+http://178.33.237.97:8080/live/andro/andro/1613.ts
+#EXTINF:-1,Investigation Discovery +1
+http://178.33.237.97:8080/live/andro/andro/1615.ts
+#EXTINF:-1,w
+http://178.33.237.97:8080/live/andro/andro/1616.ts
+#EXTINF:-1,E! +1
+http://178.33.237.97:8080/live/andro/andro/1621.ts
+#EXTINF:-1,ITV 1 +1
+http://178.33.237.97:8080/live/andro/andro/1617.ts
+#EXTINF:-1,ITV 2 +1
+http://178.33.237.97:8080/live/andro/andro/1618.ts
+#EXTINF:-1,ITV 3 +1
+http://178.33.237.97:8080/live/andro/andro/1619.ts
+#EXTINF:-1,ITV 4 +1
+http://178.33.237.97:8080/live/andro/andro/1620.ts
+#EXTINF:-1,Sky Atlantic +1
+http://178.33.237.97:8080/live/andro/andro/1622.ts
+#EXTINF:-1,Food Network + 1
+http://178.33.237.97:8080/live/andro/andro/1870.ts
+#EXTINF:-1,BBC 1 Scotland
+http://178.33.237.97:8080/live/andro/andro/2069.ts
+#EXTINF:-1,ITV SD
+http://178.33.237.97:8080/live/andro/andro/2329.ts
+#EXTINF:-1,BBC 1 SD
+http://178.33.237.97:8080/live/andro/andro/2330.ts
+#EXTINF:-1,POP
+http://178.33.237.97:8080/live/andro/andro/2332.ts
+#EXTINF:-1,Tiny Pop
+http://178.33.237.97:8080/live/andro/andro/2334.ts
+#EXTINF:-1,Kix
+http://178.33.237.97:8080/live/andro/andro/2333.ts
+#EXTINF:-1,TV-3 HD
+http://178.33.237.97:8080/live/andro/andro/109.ts
+#EXTINF:-1,NBA Live 9
+http://178.33.237.97:8080/live/andro/andro/220.ts
+#EXTINF:-1,NBA Live 10
+http://178.33.237.97:8080/live/andro/andro/221.ts
+#EXTINF:-1,US: WWE HD
+http://178.33.237.97:8080/live/andro/andro/152.ts
+#EXTINF:-1,USA: UFC Fight pass
+http://178.33.237.97:8080/live/andro/andro/156.ts
+#EXTINF:-1,US: NBC SPORT
+http://178.33.237.97:8080/live/andro/andro/154.ts
+#EXTINF:-1,US: NBC Golf HD
+http://178.33.237.97:8080/live/andro/andro/155.ts
+#EXTINF:-1,NBA Live 8
+http://178.33.237.97:8080/live/andro/andro/148.ts
+#EXTINF:-1,NBA Live 7
+http://178.33.237.97:8080/live/andro/andro/147.ts
+#EXTINF:-1,NBA Live 6
+http://178.33.237.97:8080/live/andro/andro/146.ts
+#EXTINF:-1,NBA Live 5
+http://178.33.237.97:8080/live/andro/andro/145.ts
+#EXTINF:-1,NBA Live 4
+http://178.33.237.97:8080/live/andro/andro/144.ts
+#EXTINF:-1,NBA Live 3
+http://178.33.237.97:8080/live/andro/andro/143.ts
+#EXTINF:-1,NBA Live 2
+http://178.33.237.97:8080/live/andro/andro/142.ts
+#EXTINF:-1,NBA Live 1
+http://178.33.237.97:8080/live/andro/andro/141.ts
+#EXTINF:-1,USA: Fox Sports 2 HD
+http://178.33.237.97:8080/live/andro/andro/126.ts
+#EXTINF:-1,USA | NFL NOW HD
+http://178.33.237.97:8080/live/andro/andro/121.ts
+#EXTINF:-1,USA | MLB HD
+http://178.33.237.97:8080/live/andro/andro/140.ts
+#EXTINF:-1,USA | LIVE NHL 9 HD
+http://178.33.237.97:8080/live/andro/andro/139.ts
+#EXTINF:-1,USA | LIVE NHL 8 HD
+http://178.33.237.97:8080/live/andro/andro/138.ts
+#EXTINF:-1,USA | LIVE NHL 7 HD
+http://178.33.237.97:8080/live/andro/andro/137.ts
+#EXTINF:-1,USA | LIVE NHL 6 HD
+http://178.33.237.97:8080/live/andro/andro/136.ts
+#EXTINF:-1,USA | LIVE NHL 5 HD
+http://178.33.237.97:8080/live/andro/andro/135.ts
+#EXTINF:-1,USA | LIVE NHL 4 HD
+http://178.33.237.97:8080/live/andro/andro/134.ts
+#EXTINF:-1,USA | LIVE NHL 3 HD
+http://178.33.237.97:8080/live/andro/andro/133.ts
+#EXTINF:-1,USA | LIVE NHL 2 HD
+http://178.33.237.97:8080/live/andro/andro/132.ts
+#EXTINF:-1,USA | LIVE NHL 13 HD
+http://178.33.237.97:8080/live/andro/andro/131.ts
+#EXTINF:-1,USA | LIVE NHL 12 HD
+http://178.33.237.97:8080/live/andro/andro/130.ts
+#EXTINF:-1,USA | LIVE NHL Ice EXTRA
+http://178.33.237.97:8080/live/andro/andro/129.ts
+#EXTINF:-1,USA | LIVE NHL 10 HD
+http://178.33.237.97:8080/live/andro/andro/128.ts
+#EXTINF:-1,USA | LIVE NHL 1 HD
+http://178.33.237.97:8080/live/andro/andro/127.ts
+#EXTINF:-1,USA : Fox Sports 2 HD
+http://178.33.237.97:8080/live/andro/andro/149.ts
+#EXTINF:-1,USA : Fox Sports 1 HD
+http://178.33.237.97:8080/live/andro/andro/150.ts
+#EXTINF:-1,US: NFL Network HD
+http://178.33.237.97:8080/live/andro/andro/125.ts
+#EXTINF:-1,US: NBA TV
+http://178.33.237.97:8080/live/andro/andro/124.ts
+#EXTINF:-1,US: ESPN HD
+http://178.33.237.97:8080/live/andro/andro/123.ts
+#EXTINF:-1,US: ESPN 2 HD
+http://178.33.237.97:8080/live/andro/andro/122.ts
+#EXTINF:-1,US: ESPN
+http://178.33.237.97:8080/live/andro/andro/151.ts
+#EXTINF:-1,CA: SPORTSNET WORLD
+http://178.33.237.97:8080/live/andro/andro/120.ts
+#EXTINF:-1,CA: SPORTSNET WEST
+http://178.33.237.97:8080/live/andro/andro/119.ts
+#EXTINF:-1,CA: SPORTSNET PACIFIC
+http://178.33.237.97:8080/live/andro/andro/118.ts
+#EXTINF:-1,CA: SPORTSNET ONTARIO
+http://178.33.237.97:8080/live/andro/andro/117.ts
+#EXTINF:-1,CA: SPORTSNET ONE
+http://178.33.237.97:8080/live/andro/andro/116.ts
+#EXTINF:-1,CA: SPORTSNET EAST
+http://178.33.237.97:8080/live/andro/andro/115.ts
+#EXTINF:-1,CA: SPORTSNET 360
+http://178.33.237.97:8080/live/andro/andro/114.ts
+#EXTINF:-1,UFC NEXT
+http://178.33.237.97:8080/live/andro/andro/1869.ts
+#EXTINF:-1,USA : NBC HD
+http://178.33.237.97:8080/live/andro/andro/165.ts
+#EXTINF:-1,USA : DIY NETWORK HD**
+http://178.33.237.97:8080/live/andro/andro/159.ts
+#EXTINF:-1,USA : CNBC HD
+http://178.33.237.97:8080/live/andro/andro/162.ts
+#EXTINF:-1,USA: CINEMAX 5
+http://178.33.237.97:8080/live/andro/andro/158.ts
+#EXTINF:-1,USA: buzzer
+http://178.33.237.97:8080/live/andro/andro/186.ts
+#EXTINF:-1,USA: antenna
+http://178.33.237.97:8080/live/andro/andro/184.ts
+#EXTINF:-1,US: USA Network HD
+http://178.33.237.97:8080/live/andro/andro/163.ts
+#EXTINF:-1,US: TBS HD
+http://178.33.237.97:8080/live/andro/andro/164.ts
+#EXTINF:-1,US: SPIKE HD
+http://178.33.237.97:8080/live/andro/andro/157.ts
+#EXTINF:-1,US: Showtime Showcase
+http://178.33.237.97:8080/live/andro/andro/166.ts
+#EXTINF:-1,US: Showtime Extreme
+http://178.33.237.97:8080/live/andro/andro/167.ts
+#EXTINF:-1,USA: ShowTime 2 HD
+http://178.33.237.97:8080/live/andro/andro/168.ts
+#EXTINF:-1,US: ShowTime
+http://178.33.237.97:8080/live/andro/andro/169.ts
+#EXTINF:-1,USA: OWN HD
+http://178.33.237.97:8080/live/andro/andro/170.ts
+#EXTINF:-1,USA: NICKELODEN HD
+http://178.33.237.97:8080/live/andro/andro/171.ts
+#EXTINF:-1,USA: Nat Geo Wild
+http://178.33.237.97:8080/live/andro/andro/172.ts
+#EXTINF:-1,US: NAT GEO
+http://178.33.237.97:8080/live/andro/andro/173.ts
+#EXTINF:-1,USA: Investigation Discovery
+http://178.33.237.97:8080/live/andro/andro/174.ts
+#EXTINF:-1,USA: HISTORY
+http://178.33.237.97:8080/live/andro/andro/175.ts
+#EXTINF:-1,US: HBO SIGNATURE
+http://178.33.237.97:8080/live/andro/andro/176.ts
+#EXTINF:-1,US: HBO Family HD
+http://178.33.237.97:8080/live/andro/andro/177.ts
+#EXTINF:-1,US: HBO
+http://178.33.237.97:8080/live/andro/andro/178.ts
+#EXTINF:-1,USA: FX HD
+http://178.33.237.97:8080/live/andro/andro/183.ts
+#EXTINF:-1,USA: FOX HD
+http://178.33.237.97:8080/live/andro/andro/182.ts
+#EXTINF:-1,USA: Discovery Channel HD
+http://178.33.237.97:8080/live/andro/andro/160.ts
+#EXTINF:-1,US: Cinemax East
+http://178.33.237.97:8080/live/andro/andro/161.ts
+#EXTINF:-1,US: BRAVO HD
+http://178.33.237.97:8080/live/andro/andro/181.ts
+#EXTINF:-1,USA: Bravo
+http://178.33.237.97:8080/live/andro/andro/180.ts
+#EXTINF:-1,US: AMC HD
+http://178.33.237.97:8080/live/andro/andro/179.ts
+#EXTINF:-1,Sky Drama & Romance HD
+http://178.33.237.97:8080/live/andro/andro/249.ts
+#EXTINF:-1,Sky Cinema Select HD
+http://178.33.237.97:8080/live/andro/andro/248.ts
+#EXTINF:-1,UK: Sky Family HD
+http://178.33.237.97:8080/live/andro/andro/255.ts
+#EXTINF:-1,UK: Sky Cinema Sc-Fi & Horror HD
+http://178.33.237.97:8080/live/andro/andro/256.ts
+#EXTINF:-1,UK: Sky CInema HERO HD (local)
+http://178.33.237.97:8080/live/andro/andro/260.ts
+#EXTINF:-1,UK: Sky Cinema Hits HD Local
+http://178.33.237.97:8080/live/andro/andro/259.ts
+#EXTINF:-1,UK: Sky Cinema Disney HD
+http://178.33.237.97:8080/live/andro/andro/258.ts
+#EXTINF:-1,UK: Sky Cinema Comedy HD
+http://178.33.237.97:8080/live/andro/andro/253.ts
+#EXTINF:-1,UK: Sky Cinema Action HD
+http://178.33.237.97:8080/live/andro/andro/254.ts
+#EXTINF:-1,Sony Movies SD
+http://178.33.237.97:8080/live/andro/andro/217.ts
+#EXTINF:-1,Sky Thriller Movies SD
+http://178.33.237.97:8080/live/andro/andro/214.ts
+#EXTINF:-1,True Movies 2 SD
+http://178.33.237.97:8080/live/andro/andro/219.ts
+#EXTINF:-1,True Movies 1 SD
+http://178.33.237.97:8080/live/andro/andro/218.ts
+#EXTINF:-1,Sky Action Movies SD
+http://178.33.237.97:8080/live/andro/andro/213.ts
+#EXTINF:-1,Sky Select Movies SD
+http://178.33.237.97:8080/live/andro/andro/215.ts
+#EXTINF:-1,Sky ScFiHorror Movies SD
+http://178.33.237.97:8080/live/andro/andro/216.ts
+#EXTINF:-1,Sky Premiere Movies SD
+http://178.33.237.97:8080/live/andro/andro/207.ts
+#EXTINF:-1,Sky Movies Drama & Romance SD
+http://178.33.237.97:8080/live/andro/andro/211.ts
+#EXTINF:-1,Sky Movies Disney SD
+http://178.33.237.97:8080/live/andro/andro/208.ts
+#EXTINF:-1,Sky Hits Movies SD
+http://178.33.237.97:8080/live/andro/andro/209.ts
+#EXTINF:-1,Sky Family Movies SD
+http://178.33.237.97:8080/live/andro/andro/210.ts
+#EXTINF:-1,Sky Comedy Movies SD
+http://178.33.237.97:8080/live/andro/andro/212.ts
+#EXTINF:-1,Sky Cinema Premier + 1
+http://178.33.237.97:8080/live/andro/andro/1871.ts
+#EXTINF:-1,Film 4
+http://178.33.237.97:8080/live/andro/andro/2335.ts
+#EXTINF:-1,SKY SPORTS Premier Leauge HD (local)
+http://178.33.237.97:8080/live/andro/andro/245.ts
+#EXTINF:-1,SKY SPORTS The Open HD (local)
+http://178.33.237.97:8080/live/andro/andro/244.ts
+#EXTINF:-1,SKY SPORTS Action HD (local)
+http://178.33.237.97:8080/live/andro/andro/243.ts
+#EXTINF:-1,SKY SPORTS CRICKET HD (local)
+http://178.33.237.97:8080/live/andro/andro/242.ts
+#EXTINF:-1,SKY SPORTS Main Event HD (local)
+http://178.33.237.97:8080/live/andro/andro/241.ts
+#EXTINF:-1,NBC E.P.L XTRA 7 (LIVE DURING EPL)
+http://178.33.237.97:8080/live/andro/andro/234.ts
+#EXTINF:-1,NBC E.P.L XTRA 6 (LIVE DURING EPL)
+http://178.33.237.97:8080/live/andro/andro/233.ts
+#EXTINF:-1,NBC E.P.L XTRA 5 (LIVE DURING EPL)
+http://178.33.237.97:8080/live/andro/andro/232.ts
+#EXTINF:-1,NBC E.P.L XTRA 4 (LIVE DURING EPL)
+http://178.33.237.97:8080/live/andro/andro/231.ts
+#EXTINF:-1,NBC E.P.L XTRA 3 (LIVE DURING EPL)
+http://178.33.237.97:8080/live/andro/andro/230.ts
+#EXTINF:-1,NBC E.P.L XTRA 2 (LIVE DURING EPL)
+http://178.33.237.97:8080/live/andro/andro/229.ts
+#EXTINF:-1,NBC E.P.L XTRA 1 (LIVE DURING EPL)
+http://178.33.237.97:8080/live/andro/andro/228.ts
+#EXTINF:-1,celtic tv LOCAL
+http://178.33.237.97:8080/live/andro/andro/1623.ts
+#EXTINF:-1,Aberdeen TV
+http://178.33.237.97:8080/live/andro/andro/1867.ts
+#EXTINF:-1,Discovery HD
+http://178.33.237.97:8080/live/andro/andro/1597.ts
+#EXTINF:-1,UK: Sky Box Office (LOCAL) SD
+http://178.33.237.97:8080/live/andro/andro/246.ts
+#EXTINF:-1,UK: Sky Box Office HD
+http://178.33.237.97:8080/live/andro/andro/265.ts
+#EXTINF:-1,UK: Sky Box Office (On Events)
+http://178.33.237.97:8080/live/andro/andro/270.ts
+#EXTINF:-1,UK: Box Office / PPV (LIVE ONLY ON EVENTS)
+http://178.33.237.97:8080/live/andro/andro/267.ts
+#EXTINF:-1,PPV (LIVE ON EVENTS) OSN HD
+http://178.33.237.97:8080/live/andro/andro/266.ts
+#EXTINF:-1,|UK| PPV BOX OFFICE HD (LOCAL)
+http://178.33.237.97:8080/live/andro/andro/268.ts
+#EXTINF:-1,UK: Box Office / PPV (LIVE ONLY ON EVENTS) WWE
+http://178.33.237.97:8080/live/andro/andro/1596.ts
+#EXTINF:-1,ITV PPV
+http://178.33.237.97:8080/live/andro/andro/1624.ts
+#EXTINF:-1,ITV PPV 2
+http://178.33.237.97:8080/live/andro/andro/1625.ts
+#EXTINF:-1,ITV PPV 3
+http://178.33.237.97:8080/live/andro/andro/1626.ts
+#EXTINF:-1,ITV PPV 4
+http://178.33.237.97:8080/live/andro/andro/1627.ts
+#EXTINF:-1,ITV PPV 5
+http://178.33.237.97:8080/live/andro/andro/1628.ts
+#EXTINF:-1,Sky Box Office REPEAT (WRESTLEMANIA 34)
+http://178.33.237.97:8080/live/andro/andro/1802.ts
+#EXTINF:-1,1 - Football Fixtures
+http://178.33.237.97:8080/live/andro/andro/2068.ts
+#EXTINF:-1,EPL 1 ( MATCH TIME )
+http://178.33.237.97:8080/live/andro/andro/1583.ts
+#EXTINF:-1,EPL 2 ( MATCH TIME )
+http://178.33.237.97:8080/live/andro/andro/1582.ts
+#EXTINF:-1,EPL 3 ( MATCH TIME )
+http://178.33.237.97:8080/live/andro/andro/1581.ts
+#EXTINF:-1,EPL 4 ( MATCH TIME )
+http://178.33.237.97:8080/live/andro/andro/1580.ts
+#EXTINF:-1,EPL 5 ( MATCH TIME )
+http://178.33.237.97:8080/live/andro/andro/1579.ts
+#EXTINF:-1,EPL 6 ( MATCH TIME )
+http://178.33.237.97:8080/live/andro/andro/1578.ts
+#EXTINF:-1,EPL 7 ( MATCH TIME )
+http://178.33.237.97:8080/live/andro/andro/1577.ts
+#EXTINF:-1,EPL 8 ( MATCH TIME )
+http://178.33.237.97:8080/live/andro/andro/1576.ts
+#EXTINF:-1,VIP : LE Sports Now HK 1 HD
+http://178.33.237.97:8080/live/andro/andro/1574.ts
+#EXTINF:-1,VIP : LE Sports Now HK 2 HD
+http://178.33.237.97:8080/live/andro/andro/1572.ts
+#EXTINF:-1,VIP : LE Sports Now HK 3 HD
+http://178.33.237.97:8080/live/andro/andro/1571.ts
+#EXTINF:-1,VIP : LE Sports Now HK 4 HD
+http://178.33.237.97:8080/live/andro/andro/1570.ts
+#EXTINF:-1,VIP : LE Sports Now HK 5 HD
+http://178.33.237.97:8080/live/andro/andro/1569.ts
+#EXTINF:-1,VIP : LE Sports Now HK 6 HD
+http://178.33.237.97:8080/live/andro/andro/1568.ts
+#EXTINF:-1,VIP : LE Sports Now HK 7 HD
+http://178.33.237.97:8080/live/andro/andro/1567.ts
+#EXTINF:-1,VIP : LE Sports Now HK 8 HD
+http://178.33.237.97:8080/live/andro/andro/1566.ts
+#EXTINF:-1,VIP : LE Sports Now HK 9 HD
+http://178.33.237.97:8080/live/andro/andro/1565.ts
+#EXTINF:-1,NBC Sports Network!
+http://178.33.237.97:8080/live/andro/andro/1575.ts
+#EXTINF:-1,3PM: NBC Sports Gold 1
+http://178.33.237.97:8080/live/andro/andro/3727.ts
+#EXTINF:-1,3PM: NBC Sports Gold 2
+http://178.33.237.97:8080/live/andro/andro/3726.ts
+#EXTINF:-1,3PM: NBC Sports Gold 3
+http://178.33.237.97:8080/live/andro/andro/3725.ts
+#EXTINF:-1,3PM: NBC Sports Gold 4
+http://178.33.237.97:8080/live/andro/andro/3724.ts
+#EXTINF:-1,3PM: NBC Sports Gold 5
+http://178.33.237.97:8080/live/andro/andro/3723.ts
+#EXTINF:-1,3PM: NBC Sports Gold Goal Rush
+http://178.33.237.97:8080/live/andro/andro/3722.ts
+#EXTINF:-1,Hearts TV
+http://178.33.237.97:8080/live/andro/andro/1938.ts
+#EXTINF:-1,Hibs TV
+http://178.33.237.97:8080/live/andro/andro/1939.ts
+#EXTINF:-1,UK: BET
+http://178.33.237.97:8080/live/andro/andro/1610.ts
+#EXTINF:-1,UK: Nollywood
+http://178.33.237.97:8080/live/andro/andro/1609.ts
+#EXTINF:-1,UK: Colours
+http://178.33.237.97:8080/live/andro/andro/1608.ts
+#EXTINF:-1,UK: Sony Max
+http://178.33.237.97:8080/live/andro/andro/1606.ts
+#EXTINF:-1,UK: Sony Movies
+http://178.33.237.97:8080/live/andro/andro/1607.ts
+#EXTINF:-1,UK; Zee Cinema
+http://178.33.237.97:8080/live/andro/andro/1605.ts
+#EXTINF:-1,UK: B4U Movies
+http://178.33.237.97:8080/live/andro/andro/1602.ts
+#EXTINF:-1,UK: B4U Music
+http://178.33.237.97:8080/live/andro/andro/1603.ts
+#EXTINF:-1,UK: ARY Digital
+http://178.33.237.97:8080/live/andro/andro/1604.ts
+#EXTINF:-1,SONY CHANNEL
+http://178.33.237.97:8080/live/andro/andro/2380.ts
+#EXTINF:-1,SONY CHANNEL  1
+http://178.33.237.97:8080/live/andro/andro/2379.ts
+#EXTINF:-1,SONY SAB
+http://178.33.237.97:8080/live/andro/andro/2368.ts
+#EXTINF:-1,SONY TV UK
+http://178.33.237.97:8080/live/andro/andro/2369.ts
+#EXTINF:-1,ZING UK
+http://178.33.237.97:8080/live/andro/andro/2378.ts
+#EXTINF:-1,COLORS
+http://178.33.237.97:8080/live/andro/andro/2377.ts
+#EXTINF:-1,ZEE CINEMA UK
+http://178.33.237.97:8080/live/andro/andro/2376.ts
+#EXTINF:-1,ZEE TV UK
+http://178.33.237.97:8080/live/andro/andro/2370.ts
+#EXTINF:-1,STAR GOLD
+http://178.33.237.97:8080/live/andro/andro/2375.ts
+#EXTINF:-1,STAR LIFE OK
+http://178.33.237.97:8080/live/andro/andro/2371.ts
+#EXTINF:-1,STAR PLUS
+http://178.33.237.97:8080/live/andro/andro/2374.ts
+#EXTINF:-1,STAR UTSAV
+http://178.33.237.97:8080/live/andro/andro/2373.ts
+#EXTINF:-1,B4U PLUS
+http://178.33.237.97:8080/live/andro/andro/2372.ts
+#EXTINF:-1,RISHTEY EUROPE
+http://178.33.237.97:8080/live/andro/andro/2367.ts
+#EXTINF:-1,CHANNELS 24
+http://178.33.237.97:8080/live/andro/andro/2366.ts
+#EXTINF:-1,ROK TV
+http://178.33.237.97:8080/live/andro/andro/2365.ts
+#EXTINF:-1,TVC NEWS
+http://178.33.237.97:8080/live/andro/andro/2364.ts
