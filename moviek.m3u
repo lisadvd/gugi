@@ -19,7 +19,7 @@ http://185.21.216.154:7676/swift926/ITV2/chunks.m3u8?nimblesessionid=2250751&wms
 http://185.21.216.139:7071/super/4E/chunks.m3u8?nimblesessionid=706448&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE4IDEwOjE4OjI1IFBNJmhhc2hfdmFsdWU9RTBVcEZ3b1BYbVpuQzFVenZYYlVxQT09JnZhbGlkbWludXRlcz0y
 #EXTINF:0,Comedy Central
 http://185.21.216.139:7071/super/ComedyCentral/chunks.m3u8?nimblesessionid=706549&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE4IDEwOjE4OjQzIFBNJmhhc2hfdmFsdWU9T014N2pzdXpnSWJEUm9SQTI1eThXUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:0dontehvb
-http://185.21.216.139:7071/super/ComedyCentral/chunks.m3u8?nimblesessionid=706549&wmsAuthSign=c2VydmVyX3RpbWU9N
+#EXTINF:0 Nick Jr
+http://185.21.216.189:7071/super/nickjr/chunks.m3u8?nimblesessionid=1381312&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE4IDExOjEyOjE1IFBNJmhhc2hfdmFsdWU9S0RKbVM5eVEzbG1pT1U3dVBLaTJXQT09JnZhbGlkbWludXRlcz0y
 
 
