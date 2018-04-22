@@ -25,3 +25,5 @@ http://185.21.216.189:7071/super/nickjr/chunks.m3u8?nimblesessionid=1381312&wmsA
 http://185.21.216.194:7071/cdn/dmax/chunks.m3u8?nimblesessionid=5938610&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE4IDExOjIwOjQ1IFBNJmhhc2hfdmFsdWU9dFpEb3VnZ2ladFhwUG1uTWl0cFFOZz09JnZhbGlkbWludXRlcz0y
 #EXTINF:0E!
 http://play1.uktvnow.net:8081/live/ee.stream/chunks.m3u8?nimblesessionid=427873004&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE4IDExOjI1OjIxIFBNJmhhc2hfdmFsdWU9bGdKT0wveUZpR3VXUDJmMkFOQ1Erdz09JnZhbGlkbWludXRlcz0yMA==
+#EXTINF:0Sky News
+http://play1.uktvnow.net:8081/live/skynews.stream/chunks.m3u8?nimblesessionid=428660956&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE4IDExOjUyOjMzIFBNJmhhc2hfdmFsdWU9UFR0MW5wMW94bkViR3FkOW1KQTl4QT09JnZhbGlkbWludXRlcz0yMA==
