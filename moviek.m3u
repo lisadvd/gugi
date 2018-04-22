@@ -23,5 +23,5 @@ http://185.21.216.139:7071/super/ComedyCentral/chunks.m3u8?nimblesessionid=70654
 http://185.21.216.189:7071/super/nickjr/chunks.m3u8?nimblesessionid=1381312&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE4IDExOjEyOjE1IFBNJmhhc2hfdmFsdWU9S0RKbVM5eVEzbG1pT1U3dVBLaTJXQT09JnZhbGlkbWludXRlcz0y
 #EXTINF:0 DMAX
 http://185.21.216.194:7071/cdn/dmax/chunks.m3u8?nimblesessionid=5938610&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE4IDExOjIwOjQ1IFBNJmhhc2hfdmFsdWU9dFpEb3VnZ2ladFhwUG1uTWl0cFFOZz09JnZhbGlkbWludXRlcz0y
-#EXTINF:0 ID
+#EXTINF:0 THEEE
 http://185.21.216.139:7071/super/DISCOVERYID/chunks.m3u8?nimblesessionid=722803&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE4IDExOjE5OjAwIFBNJmhhc2hfdmFsdWU9UHdZNEdsT21IM3RlRS9qYVVxeTM0Zz09JnZhbGlkbWludXRlcz0y
