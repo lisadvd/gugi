@@ -3,27 +3,27 @@
 #EXTINF:-1, [COLOR green] --29-06-2015--[/COLOR]  
 #EXTINF:-1,[COLOR yellow]--- US Channels ---[/COLOR]
 
-#EXTINF:0,BBC 1
-http://vs-hls-uk-live.akamaized.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4%3d128000-video%3d5070016.m3u8
-#EXTINF:0,BBC 2
+#EXTINF:0,westworld 1
+https://openload.co/stream/acaHWdfdfls~1524696760~80.234.0.0~reByj3ve?mime=true
+#EXTINF:0,westworld 2
 http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d5070016.m3u8
-#EXTINF:-1,prison break
+#EXTINF:0,westworld 3
 https://drive.google.com/uc?export=download&id=1Qe9KGWTHuMuGeimB4VNsg324VFIn5caa
-#EXTINF:0,Channel4
+#EXTINF:0,westworld 4
 https://drive.google.com/uc?export=download&id=1JEiqzHjygHU-b6bgrPM546JFdaTwQGnP
-#EXTINF:0,Channel5
+#EXTINF:0,westworld 5
 https://drive.google.com/uc?export=download&id=1JEiqzHjygHU-b6bgrPM546JFdaTwQGnP
-#EXTINF:0,ITV 2
+#EXTINF:0,westworld 6
 http://185.21.216.154:7676/swift926/ITV2/chunks.m3u8?nimblesessionid=2250751&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE4IDEwOjI2OjU0IFBNJmhhc2hfdmFsdWU9dWVzWEtGL0ZnU3p3RzR6MFM2bjFwQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:0,E4
+#EXTINF:0,westworld 7
 http://185.21.216.139:7071/super/4E/chunks.m3u8?nimblesessionid=706448&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE4IDEwOjE4OjI1IFBNJmhhc2hfdmFsdWU9RTBVcEZ3b1BYbVpuQzFVenZYYlVxQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:0,Comedy Central
+#EXTINF:0,westworld 8
 http://185.21.216.139:7071/super/ComedyCentral/chunks.m3u8?nimblesessionid=706549&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE4IDEwOjE4OjQzIFBNJmhhc2hfdmFsdWU9T014N2pzdXpnSWJEUm9SQTI1eThXUT09JnZhbGlkbWludXRlcz0y
-#EXTINF:0Nick Jr
+#EXTINF:0,westworld 9
 http://185.21.216.189:7071/super/nickjr/chunks.m3u8?nimblesessionid=1381312&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE4IDExOjEyOjE1IFBNJmhhc2hfdmFsdWU9S0RKbVM5eVEzbG1pT1U3dVBLaTJXQT09JnZhbGlkbWludXRlcz0y
-#EXTINF:0DMAX
+#EXTINF:0,westworld 10
 http://185.21.216.194:7071/cdn/dmax/chunks.m3u8?nimblesessionid=5938610&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE4IDExOjIwOjQ1IFBNJmhhc2hfdmFsdWU9dFpEb3VnZ2ladFhwUG1uTWl0cFFOZz09JnZhbGlkbWludXRlcz0y
-#EXTINF:0E!
+#EXTINF:0,westworld
 http://play1.uktvnow.net:8081/live/ee.stream/chunks.m3u8?nimblesessionid=427873004&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE4IDExOjI1OjIxIFBNJmhhc2hfdmFsdWU9bGdKT0wveUZpR3VXUDJmMkFOQ1Erdz09JnZhbGlkbWludXRlcz0yMA==
-#EXTINF:0Sky News
+#EXTINF:0,westworld
 http://play1.uktvnow.net:8081/live/skynews.stream/chunks.m3u8?nimblesessionid=428660956&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE4IDExOjUyOjMzIFBNJmhhc2hfdmFsdWU9UFR0MW5wMW94bkViR3FkOW1KQTl4QT09JnZhbGlkbWludXRlcz0yMA==
