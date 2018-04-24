@@ -10,7 +10,7 @@ http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_
 #EXTINF:0,ITV
 http://185.21.217.74:7071/super/tsn5/chunks.m3u8?nimblesessionid=55086&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDE4IDg6MDc6MzEgUE0maGFzaF92YWx1ZT01S1dzdTRrRXNTMjBlMmIwRk9RUzlRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0,Channel4
-http://185.21.216.139:7071/super/Channel4/chunks.m3u8?nimblesessionid=705867&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE4IDEwOjE2OjM5IFBNJmhhc2hfdmFsdWU9NUZpdHAyem0wME9mWXBsQUlYT3pIUT09JnZhbGlkbWludXRlcz0y
+http://185.21.217.74:7071/super/tsn3/chunks.m3u8?nimblesessionid=58274&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDE4IDg6MTE6MDYgUE0maGFzaF92YWx1ZT0wM01UZjJldjMyNXQ1RjBwYkM5UVBRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0,Channel5
 http://185.21.216.139:7071/super/CH5/chunks.m3u8?nimblesessionid=706011&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE4IDEwOjE3OjA3IFBNJmhhc2hfdmFsdWU9WDNMNTdwUXhtLzRBTG11MGJCMXF2QT09JnZhbGlkbWludXRlcz0y
 #EXTINF:0,ITV 2
