@@ -8,7 +8,7 @@ http://vs-hls-uk-live.akamaized.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_
 #EXTINF:0,BBC 2
 http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4%3d128000-video%3d5070016.m3u8
 #EXTINF:0,ITV
-http://185.21.216.139:7071/super/ITV1/chunks.m3u8?nimblesessionid=705612&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE4IDEwOjE1OjQ3IFBNJmhhc2hfdmFsdWU9WXJqUU92Q0crWVlGYkNQVDBkek03UT09JnZhbGlkbWludXRlcz0y
+http://185.21.217.74:7071/super/tsn5/chunks.m3u8?nimblesessionid=55086&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDE4IDg6MDc6MzEgUE0maGFzaF92YWx1ZT01S1dzdTRrRXNTMjBlMmIwRk9RUzlRPT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0,Channel4
 http://185.21.216.139:7071/super/Channel4/chunks.m3u8?nimblesessionid=705867&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMi8yMDE4IDEwOjE2OjM5IFBNJmhhc2hfdmFsdWU9NUZpdHAyem0wME9mWXBsQUlYT3pIUT09JnZhbGlkbWludXRlcz0y
 #EXTINF:0,Channel5
