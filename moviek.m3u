@@ -3,8 +3,8 @@
 #EXTINF:-1, [COLOR green] --29-06-2015--[/COLOR]  
 #EXTINF:-1,[COLOR yellow]--- US Channels ---[/COLOR]
 
-#EXTINF:0,westworld 1
-https://openload.co/stream/acaHWdfdfls~1524696760~80.234.0.0~reByj3ve?mime=true
+#EXTINF:0,ITV
+http://185.21.216.139:7071/super/ITV1/chunks.m3u8?nimblesessionid=3728087&wmsAuthSign=c2VydmVyX3RpbWU9NC8zMC8yMDE4IDg6NDg6NDUgUE0maGFzaF92YWx1ZT0yRlhwOXg4aUNhZ3J1UFNzbHQzU2p3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:0,westworld 2
 https://c15.vidlox.tv/oudvhxedjjtk2yixv7v6gbl6drfsg7spi4nfctiarhsegovjzhtfkun4brpa/v.mp4
 #EXTINF:0,westworld 3
