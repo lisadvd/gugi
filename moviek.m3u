@@ -1,18 +1,6 @@
 #EXTM3U
-#EXTINF:-1,[COLOR blue][I][B]--- 29-06-2015 ---[/B][/I][/COLOR]
-#EXTINF:-1, [COLOR green] --29-06-2015--[/COLOR]  
-#EXTINF:-1,[COLOR yellow]--- US Channels ---[/COLOR]
-
-#EXTINF:0,2Hours Cartoonetwork
-magnet:?xt=urn:btih:218102874f75f0132728331519a2e6e469d01cf9&dn=scary+movie
-#EXTINF:0,The Mask
-http://localhost:8090/stream/Scary.Movie.2.BrRip.720p.x264.YIFY.mkv?link=218102874f75f0132728331519a2e6e469d01cf9&index=2&play
-#EXTINF:0,Lisa Frankenstein
-https://jay8453.comet.usbx.me/downloads/deluge/Lisa%20Frankenstein%20%282024%29%20%5B720p%5D%20%5BWEBRip%5D%20%5BYTS.MX%5D/Lisa.Frankenstein.2024.720p.WEBRip.x264.AAC-%5BYTS.MX%5D.mp4
-#EXTINF:0,Spider-Man Far from Home
-https://tinyurl.com/uoy8kw3
-#EXTINF:0,Back to the Future II
-https://tinyurl.com/vxwlbwn
-
-
+#EXTINF:0, Movie 1 Title
+magnet:?xt=urn:btih:19a7191161fb223a640e57fc6d03b560ecb488ec&dn=hocus+pocus
+#EXTINF:0, Movie 2 Title
+http://example.com/video2.mp4
 
