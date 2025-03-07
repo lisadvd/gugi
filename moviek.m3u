@@ -2,5 +2,5 @@
 #EXTINF:0, Movie 1 Title
 magnet:?xt=urn:btih:19a7191161fb223a640e57fc6d03b560ecb488ec&dn=hocus+pocus
 #EXTINF:0, Movie 2 Title
-http://example.com/video2.mp4
+http://localhost:8090/stream/Scary.Movie.2.BrRip.720p.x264.YIFY.mkv?link=218102874f75f0132728331519a2e6e469d01cf9&index=2&play
 
