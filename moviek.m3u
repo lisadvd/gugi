@@ -1,8 +1,9 @@
 #EXTM3U
 #EXTINF:0, Movie 1 Title
 http://localhost:8090/stream/hocus+pocus.mkv?link=19a7191161fb223a640e57fc6d03b560ecb488ec&index=0&play
-#EXTINF:0,Scary Movie 2
+#EXTINF:1,Scary Movie 2
 http://localhost:8090/stream/Scary.Movie.2.BrRip.720p.x264.YIFY.mkv?link=218102874f75f0132728331519a2e6e469d01cf9&index=2&play
+
 
 
 
