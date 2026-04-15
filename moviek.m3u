@@ -1,8 +1,7 @@
 #EXTM3U
-#EXTINF:0, Movie 1 Title
-http://localhost:8090/stream/hocus+pocus.mkv?link=19a7191161fb223a640e57fc6d03b560ecb488ec&index=0&play
+#EXTINF:0, Movie 1 magnet:?xt=urn:btih:49D71977CD2F7B0991BDE08D6CA2557CDD90270A&dn=The+Highest+Stakes+%282026%29+%5B720p%5D+%5BYTS.BZ%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=https%3A%2F%2Ftracker.moeblog.cn%3A443%2Fannounce&dk=ohTRlhaflrUTSLR2RQmtavOPEOagc_g2X2dHRteZCQxnrg&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce
 #EXTINF:1,Scary Movie 2
-http://localhost:8090/stream/Scary.Movie.2.BrRip.720p.x264.YIFY.mkv?link=218102874f75f0132728331519a2e6e469d01cf9&index=2&play
+magnet:?xt=urn:btih:0A8EBA7C5F0EFC2B2CC54DF5416DE7FADE01B10A&dn=Undertone+%282025%29+%5B720p%5D+%5BYTS.BZ%5D&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=https%3A%2F%2Ftracker.moeblog.cn%3A443%2Fannounce&dk=kvtc6p2quO3JCkYcFGEhtVDw1VnQ3t5cpAOoXyzYSK3H9w&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce
 
 
 
